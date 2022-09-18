@@ -12,18 +12,28 @@
 %숫자d,%숫자f : 숫자 뒤 자릿수 표시
 %.숫자f : 소숫점 뒤 자릿수(반올림) (.0 = .)
 '''
+#1
 x=21
 print("x의 값은 %d입니다."%x)
 print("x의 값은 %f입니다."%x)
 
+#2
 height=168.5
 text= '내 키는 %fcm 입니다.' %height
 print(text)
 
+#3
 name='최예지'; age=20; weight=62.5
 print('내 이름은 %s입니다.' % name)
 print('나는 %d살 입니다.' %age)
 print('나의 몸무게는 %.2fkg입니다.' %weight)
 
+#4
 x=21; y=3
 print("%02d와 %02d을/를 곱한 값은 %02d입니다."%(x,y,x*y)) #0 써줬기 때문에 남는 자리 0으로 채움
+
+#5
+a=0.3394
+b=2940
+print("%.2f+%.0f를 출력할거야" %(a,b))
+print("%2f를 출력할거야"%b)
