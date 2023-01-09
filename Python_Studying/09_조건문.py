@@ -31,8 +31,14 @@ else :
 print("이군요! ")
 
 #3 한국 시간으로 프랑스 시간 계산
-print("한국의 시간을 입력하십시오")
-Kh=int(input())
-print("시", end=" ")
-Km=int(input())
-print("분")
+print("한국의 시간을 입력하십시오") #__시__분 으로 출력하려면 어떻게?
+Kh=int(input("한국 시: "))
+Km=int(input("한국 분: "))
+
+Fh=Kh-8
+Fm=Km
+
+if Fh<=0 :
+    Fh+=24
+
+print("프랑스는 %2d시 %2d분 입니다." %(Fh, Fm))
