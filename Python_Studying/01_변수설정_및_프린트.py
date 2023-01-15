@@ -17,3 +17,4 @@ print(이름)
 print(고향)
 print("5.5+3.14")
 
+print(type(a)) #변수 유형 확인

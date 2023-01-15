@@ -1,12 +1,31 @@
 #반복문
 
 #for문
-for i in range(1,11,1): #시작값, 종료값+1, 더할 값
-    print(i)
+for i in range(1,11,1): #시작값(기본 0), 종료값+1, 더할 값(기본 1)
+    print(i, end=" ")
+print("\n")
+
+for i in range(50,71,3):
+    print(i, end=" ")
+print("\n")
+
+for i in range(10,1,-1):
+    print(i, end=" ")
+print("\n")
+
+for i in range(1,30,1):
+    if i%3==0:
+        pass
+    else:
+        print(i, end=" ")
+print("\n")
+
 #while문
+import time
 i=0
 while i<10:
     print(i)
+    time.sleep(1)
     i+=1
 
 #1부터 10까지의 합
@@ -44,6 +63,12 @@ for i in range(1,21,1):
         print("박수")
     else:
         print(i)
+        
+#4 구구단
+for i in range(1,10):
+    for j in range(1,10):
+        print("%d * %d = %d" %(i,j,i*j), end="\t")
+    print("\n")
 
 #break
 i=0
@@ -53,3 +78,24 @@ while 1:
     if i>20:
         break
 
+while True:
+    x=input("입력하세요: ")
+    if x=="x" :
+        break
+    else :
+        print(x)
+
+#continue: 반복문 처음으로 돌아감
+for i in range(1,22):
+    if i%3==0:
+        print("박수")
+        continue
+    else:
+        print(i)
+
+#else: 반복문 종료될 때 마지막에 한 번 실행됨(파이썬only)
+for i in [3,6,4,2,9]: #왜 list()로 쓰면 안되지?
+   if i>10 :
+       break
+else:
+   print("10 이상의 숫자 없음")
