@@ -17,4 +17,10 @@ print(이름)
 print(고향)
 print("5.5+3.14")
 
+university="숭실대학교"
+grade="3"
+department="글로벌통상학과"
+print("저는", university, grade+"학년", department,"입니다.")
+
 print(type(a)) #변수 유형 확인
+print(type(a), type(1), type("Hi"))
