@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="65db1d9d-eaba-4ff3-b05b-b326695b1aaf" name="Changes" comment="기초 복습">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Studying/01_변수설정_및_프린트.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Studying/01_변수설정_및_프린트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Studying/01_변수설정_및_프린트.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Studying/01_변수설정_및_데이터타입.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Studying/03_연산자.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Studying/03_연산자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Studying/05_양식문자.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Studying/05_양식문자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Studying/07_역슬래시(출력).py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Studying/07_역슬래시(출력).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Studying/07_역슬래시(출력).py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Studying/07_역슬래시_및_프린트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Studying/08_입력함수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Studying/08_입력함수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Studying/10_반복문.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Studying/10_반복문.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674137247634</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="기초 복습">
+      <created>1674471186427</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674471186427</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
