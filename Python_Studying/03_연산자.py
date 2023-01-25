@@ -83,7 +83,7 @@ if~else(비교식)
 <=
 
 #주의
-a=100; b=200
+a=100; b=200cmd
 print(a==b)
 print(a=b) #b값을 a에 대입하라는 의미로 오류가 남
 '''
@@ -147,4 +147,3 @@ print("총", 환전결과, "달러 입니다.")
 welcome="안녕하세요"+"반가워요"
 print(welcome)
 print(welcome[0:5])
-
