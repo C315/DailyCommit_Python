@@ -1,12 +1,12 @@
 # 1
-lista = []
+"""lista = []
 
 for i in range(9):
     lista.append(int(input()))
 
 a = max(lista)
 print(a)
-print(lista.index(a)+1)
+print(lista.index(a)+1)"""
 
 # 2
 """a = int(input())
@@ -36,3 +36,7 @@ for i in range(a):
     num+=int(b[i])
 
 print(num)"""
+
+# 5
+"""char = input().split()
+print(len(char))"""
