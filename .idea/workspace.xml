@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65db1d9d-eaba-4ff3-b05b-b326695b1aaf" name="Changes" comment="기초 복습">
-      <change afterPath="$PROJECT_DIR$/Python_questions/Day_04.py" afterDir="false" />
+    <list default="true" id="65db1d9d-eaba-4ff3-b05b-b326695b1aaf" name="Changes" comment="백준 문풀">
+      <change afterPath="$PROJECT_DIR$/Python_questions/Day_06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_questions/Day_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_questions/Day_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_questions/Day_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_questions/Day_05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688044210089</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="백준 문풀">
+      <created>1688187088622</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688187088622</updated>
+    </task>
+    <task id="LOCAL-00014" summary="백준 문풀">
+      <created>1688187149379</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688187149379</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +218,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="기초 복습" />
-    <option name="LAST_COMMIT_MESSAGE" value="기초 복습" />
+    <MESSAGE value="백준 문풀" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문풀" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_questions/Day_05.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
