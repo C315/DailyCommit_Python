@@ -78,7 +78,7 @@ for i, j in words:
     print(i)"""
 
 # 06
-while True:
+"""while True:
     key = ""
     inp = list(input())
     for s in inp:
@@ -92,4 +92,4 @@ while True:
             print("no")
             break
     else:
-        print("yes")
+        print("yes")"""
