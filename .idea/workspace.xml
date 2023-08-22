@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65db1d9d-eaba-4ff3-b05b-b326695b1aaf" name="Changes" comment="백준 문풀">
-      <change afterPath="$PROJECT_DIR$/Python_questions/Day_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_questions/Day_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_questions/Day_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DailyCommit_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DailyCommit_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_questions/Day_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_questions/Day_10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,7 @@
       <recent name="E:\대학교\2-2\알고리즘" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Day_10">
     <configuration name="09_조건문" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DailyCommit_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +92,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Day_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DailyCommit_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_questions/Day_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mergesort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DailyCommit_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day_10" />
         <item itemvalue="Python.Day_09" />
         <item itemvalue="Python.09_조건문" />
         <item itemvalue="Python.mergesort" />
@@ -254,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688967019100</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="백준 문풀">
+      <option name="closed" value="true" />
+      <created>1692678528885</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692678528885</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,6 +325,21 @@
           <url>file://$PROJECT_DIR$/Python_questions/Day_09.py</url>
           <line>5</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_questions/Day_10.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_questions/Day_10.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_questions/Day_10.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
